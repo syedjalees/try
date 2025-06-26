@@ -1,3 +1,4 @@
+# important Class of python
 # transpiler -->  code ko aik language se doosri language mein convert karta hai
 # compiler  --> poora ka poora code aik sath chalata hai  
 # interpreter -->  line by line code chalata hai
